@@ -67,7 +67,7 @@ def acerca_de():
 
     ---
     **Autor:** Nalama1  
-    **Repositorio:** [GitHub - grupo2](https://github.com/nalama1/taller_flores_streamlit)  
+    **Repositorio:** [GitHub - proyecto](https://github.com/nalama1/proyectoStreamlit)  
     """)
 
 
